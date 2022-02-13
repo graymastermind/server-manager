@@ -1,0 +1,8 @@
+
+/api/node_modules
+/ui/node_modules
+/api/package-lock.json
+/ui/package-lock.json
+/api/db.sqlite
+/monitor/node_modules
+/monitor/package-lock.json
